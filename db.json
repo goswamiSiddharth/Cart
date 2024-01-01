@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "siddharth",
+      "name": "siddharth goswami",
+      "password": "12345678",
+      "email": "sid@gmail.com",
+      "phone": "97462883",
+      "country": "india",
+      "address": "colonelganj",
+      "gender": "male"
+    },
+    {
+      "userName": "siddharth",
+      "password": "12345678",
+      "id": "4v4jwcR"
+    },
+    {
+      "userName": "siddharth",
+      "password": "12345678",
+      "id": "LKBiUP8"
+    }
+  ]
+}
